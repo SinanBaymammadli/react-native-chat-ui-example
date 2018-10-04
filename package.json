@@ -10,7 +10,8 @@
     "@babel/runtime": "^7.1.2",
     "react": "16.5.0",
     "react-native": "0.57.1",
-    "react-native-chat-ui": "^0.1.6"
+    "react-native-chat-ui": "^0.1.7",
+    "react-navigation": "^2.17.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
